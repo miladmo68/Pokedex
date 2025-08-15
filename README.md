@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+<h1 align="center">🔍 Pokedex</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://miladmo68.github.io/Pokedex/"><b>🔗 Live Demo</b></a> •
+  <a href="https://github.com/miladmo68/Pokedex"><b>📦 Repository</b></a>
+</p>
 
-## Available Scripts
+<p align="center">
+  A minimal Create React App scaffold that serves as a foundation for building a Pokémon listing or search interface. It includes essential setup and scripts to kickstart your development.
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ​ Screenshot
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+<img alt="Pokedex" 
+     src="https://github.com/user-attachments/assets/ac766dfa-f266-4597-8c89-82ce003db879" 
+     width="1920" height="1080" loading="lazy" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  </p>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ​ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">
+  <img src="https://img.shields.io/badge/Create%20React%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ​ Features
 
-### `npm run eject`
+| Feature                         | Description                                                         |
+|----------------------------------|---------------------------------------------------------------------|
+| **CRA Scaffold**                 | Bootstrapped with Create React App for a reliable starting point     |
+| **Basic Templates**              | Includes essential scripts like `start`, `build`, and `test`        |
+| **Lightweight Setup**            | Ideal for building a Pokedex with search, pagination, or visual styling |
+| **Clean Project Structure**      | Initialized with standard CRA folder layout and files               |
+| **Ready for API Integration**    | Perfect base for fetching data from the Pokémon API and rendering it |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+  <b>👨‍💻 Author: Milad Mohammadi</b><br>
+  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ​ Getting Started
 
-## Learn More
+```bash
+# 1) Clone the repository
+git clone https://github.com/miladmo68/Pokedex.git
+cd Pokedex
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 2) Install dependencies
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 3) Start the development server
+npm start
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 4) Build the app for production
+npm run build
